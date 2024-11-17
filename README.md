@@ -58,5 +58,5 @@ Contributions are welcome! If you’d like to improve this project:
    git push origin feature-name
 5. Open a pull request.
 
-### License
+## License
 This project is licensed under the **MIT License**.
